@@ -1,0 +1,30 @@
+---------------------------------------------------------------
+[ 2021-02-28T19:51:03+08:00 ] 127.0.0.1 GET www.etcp.com/?carNumber=%E4%BA%ACNQ6B28
+[ error ] [2]strpos() expects parameter 1 to be string, array given
+---------------------------------------------------------------
+[ 2021-02-28T19:51:19+08:00 ] 127.0.0.1 GET www.etcp.com/?carNumber=%E4%BA%ACNQ6B28
+[ error ] [2]strpos() expects parameter 1 to be string, array given
+---------------------------------------------------------------
+[ 2021-02-28T19:52:02+08:00 ] 127.0.0.1 GET www.etcp.com/?carNumber=%E4%BA%ACNQ6B28
+[ error ] [2]strpos() expects parameter 1 to be string, array given
+---------------------------------------------------------------
+[ 2021-02-28T19:52:14+08:00 ] 127.0.0.1 GET www.etcp.com/?carNumber=%E4%BA%ACNQ6B28
+[ error ] [2]strpos() expects parameter 1 to be string, array given
+---------------------------------------------------------------
+[ 2021-02-28T19:53:41+08:00 ] 127.0.0.1 GET www.etcp.com/?carNumber=%E4%BA%ACNQ6B28
+[ error ] [2]strpos() expects parameter 1 to be string, array given
+---------------------------------------------------------------
+[ 2021-02-28T19:54:34+08:00 ] 127.0.0.1 GET www.etcp.com/?carNumber=%E4%BA%ACNQ6B28
+[ error ] [2]strpos() expects parameter 1 to be string, array given
+---------------------------------------------------------------
+[ 2021-02-28T19:54:47+08:00 ] 127.0.0.1 GET www.etcp.com/?carNumber=%E4%BA%ACNQ6B28
+[ error ] [2]strpos() expects parameter 1 to be string, array given
+---------------------------------------------------------------
+[ 2021-02-28T19:55:09+08:00 ] 127.0.0.1 GET www.etcp.com/?carNumber=%E4%BA%ACNQ6B28
+[ error ] [2]strpos() expects parameter 1 to be string, array given
+---------------------------------------------------------------
+[ 2021-02-28T19:55:32+08:00 ] 127.0.0.1 GET www.etcp.com/?carNumber=%E4%BA%ACNQ6B28
+[ error ] [2]strpos() expects parameter 1 to be string, array given
+---------------------------------------------------------------
+[ 2021-02-28T19:55:37+08:00 ] 127.0.0.1 GET www.etcp.com/?carNumber=%E4%BA%ACNQ6B28
+[ error ] [2]strpos() expects parameter 1 to be string, array given
